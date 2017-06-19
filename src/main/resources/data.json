@@ -1,0 +1,31 @@
+{
+  "deptName" : "HR",
+  "deptNo" : 15,
+  "employees" : [ {
+    "empNumber" : 10,
+    "employeeName" : "Dhanush",
+    "addresses" : [ {
+      "street" : "Irving",
+      "state" : "Texas",
+      "country" : "USA"
+    }, {
+      "street" : "Dallas",
+      "state" : "Texas",
+      "country" : "USA"
+    } ],
+    "salary" : 25000.0
+  }, {
+    "empNumber" : 20,
+    "employeeName" : "Dhanush20",
+    "addresses" : [ {
+      "street" : "Irving",
+      "state" : "Texas",
+      "country" : "USA"
+    }, {
+      "street" : "Dallas",
+      "state" : "Texas",
+      "country" : "USA"
+    } ],
+    "salary" : 45000.0
+  } ]
+}
